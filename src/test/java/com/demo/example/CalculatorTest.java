@@ -23,7 +23,7 @@ public class CalculatorTest {
 		
 		 
 	}
-	
+	@Test
 	public void testSubtract() {
 		//fail("Not yet implemented");
 		int result=cObj.subtract(10,12);
