@@ -27,7 +27,7 @@ public class CalculatorTest {
 	public void testSubtract() {
 		//fail("Not yet implemented");
 		int result=cObj.subtract(10,12);
-		assertEquals(1,result);
+		assertEquals(-2,result);
 		
 		 
 	}
